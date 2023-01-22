@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vikas-KM
-- 👀 I’m interested in Python Automation, Machine Learning and Deep Learning
-- 🌱 I’m currently learning Pytorch
-- 💞️ I’m looking to collaborate on Pytorch Projects
-- 📫 How to reach me Email
+- 👀 I’m interested in Python, Machine Learning and Deep Learning
+- 🌱 I’m currently learning ML and AI
+- 💞️ I’m looking to collaborate on ML and Deep Learning Projects
+- 📫 Email - vikki.km@gmail.com
 
 <!---
 Vikas-KM/Vikas-KM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

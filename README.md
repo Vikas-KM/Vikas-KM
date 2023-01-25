@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vikas-KM
+- 👋 Hello there 😀, I’m @Vikas-KM currently working as Python Automation Developer
 - 👀 I’m interested in Python, Machine Learning and Deep Learning
 - 🌱 I’m currently learning ML and AI
 - 💞️ I’m looking to collaborate on ML and Deep Learning Projects

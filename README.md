@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning ML and AI
 - 💞️ I’m looking to collaborate on ML and Deep Learning Projects
 - 📫 Email - vikki.km@gmail.com
+- 📝 Blogs - https://vikas-km.github.io/  
+- 📒 Medium - https://medium.com/@vikas-km
 
 <!---
 Vikas-KM/Vikas-KM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

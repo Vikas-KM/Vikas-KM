@@ -1,5 +1,5 @@
-- 👋 Hello there 😀, I’m @Vikas-KM currently working as Python Automation Developer
-- 👀 I’m interested in Python, C++, Machine Learning and Deep Learning
+- 👋 Hello there 😀, I’m @Vikas-KM currently working as Python Automation Developer | Performance and Resilence
+- 👀 I’m interested in Python, Data Science, Machine Learning and AI
 - 🌱 I’m currently learning ML, AI and Networking
 - 💞️ I’m looking to collaborate on ML and Deep Learning Projects
 - 📫 Email - vikki.km@gmail.com
